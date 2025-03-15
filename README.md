@@ -191,3 +191,17 @@ https://nmap.org/download.html
 
 
 c:\> natstat -a
+
+## netstat 옵션 암기
+
+netstat
+-n : numeric 16진수 숫자로 표현
+-t : tcp
+-u : udp
+-l : listening
+- a 모든
+- c 매초마다실행
+- i 트래픽 정보 모니터링
+- r : routing
+- s : 프토토콜별 통계 정보
+- 
